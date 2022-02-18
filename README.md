@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Hi, I’m @Estelancs
+- 👋 Hi, I’m **@Estelancs**
 - 👀 I’m interested in learn to program new languages
 - 🌱 I'm currently learning to program JavaScript and Scratch
 - 💞️ I’m looking to collaborate 
